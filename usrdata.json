@@ -78,21 +78,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "256ca772603fd754",
-        "key": "Iwgsib318w82",
-        "expirydate": "17-08-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "4c213ff83253985a",
         "key": "HSG349",
         "expirydate": "16-08-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "256ca772603fd754",
-        "key": "KSHHS348",
-        "expirydate": "17-09-2025",
         "Allowoffline": false
     },
     {
@@ -100,13 +88,7 @@
         "key": "TESKWOG920",
         "expirydate": "17-09-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "256ca772603fd754",
-        "key": "KSGWIH821",
-        "expirydate": "17-09-2025",
-        "Allowoffline": false
-    
+    }
     
     
 ]
