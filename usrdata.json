@@ -88,5 +88,12 @@
         "key": "TESKWOG920",
         "expirydate": "17-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "256ca772603fd754",
+        "key": "Jsiwj92mpq",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
+    
 ]
