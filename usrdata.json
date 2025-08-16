@@ -94,6 +94,12 @@
         "key": "Active9000",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2429ffc70d709018",
+        "key": "Parallel9000",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
     
 ]
