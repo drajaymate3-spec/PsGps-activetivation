@@ -87,7 +87,7 @@
         "device_id": "256ca772603fd754",
         "key": "jsiwh27xb",
         "expirydate": "20-09-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     
 ]
