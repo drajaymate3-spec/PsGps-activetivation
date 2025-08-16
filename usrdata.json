@@ -82,6 +82,12 @@
         "key": "LAIW81VCBN",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "256ca772603fd754",
+        "key": "Jaga226Hs",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
     
 ]
