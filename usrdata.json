@@ -100,6 +100,12 @@
         "key": "Parallel9000",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "16c05ac011ba863b",
+        "key": "C954253",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
     
 ]
