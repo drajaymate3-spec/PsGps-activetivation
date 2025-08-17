@@ -106,6 +106,12 @@
         "key": "C954253",
         "expirydate": "15-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3caccaf66f74231a",
+        "key": "HAIAG926",
+        "expirydate": "20-08-2025",
+        "Allowoffline": false
     }
     
 ]
