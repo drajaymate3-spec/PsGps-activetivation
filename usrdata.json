@@ -141,6 +141,12 @@
         "key": "Gakpq7",
         "expirydate": "17-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "0a3cadf4cd79d606",
+        "key": "HWPWHP",
+        "expirydate": "14-09-2025",
+        "Allowoffline": false
+    },
     
 ]
