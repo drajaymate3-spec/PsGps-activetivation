@@ -142,5 +142,11 @@
         "expirydate": "17-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "409dddc4561b5958",
+        "key": "Rnewal3",
+        "expirydate": "18-09-2025",
+        "Allowoffline": false
+    }
     
 ]
