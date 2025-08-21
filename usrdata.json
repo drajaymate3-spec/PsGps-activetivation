@@ -148,6 +148,13 @@
         "key": "Rnewal3",
         "expirydate": "18-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f5d80594d6397f6a",
+        "key": "parle3",
+        "expirydate": "18-09-2025",
+        "Allowoffline": false
     }
+    
     
 ]
