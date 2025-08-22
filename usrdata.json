@@ -154,7 +154,13 @@
         "key": "parle3",
         "expirydate": "18-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "3caccaf66f74231a",
+        "key": "PSZGW",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
     
     
 ]
