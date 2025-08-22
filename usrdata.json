@@ -161,6 +161,11 @@
         "expirydate": "20-09-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "a55d8b36a9cab8ad",
+        "key": "UQPRV",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
     
 ]
