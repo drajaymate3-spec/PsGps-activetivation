@@ -173,4 +173,10 @@
         "expirydate": "20-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "0cc40771b9e800f2",
+        "key": "HUWJSH",
+        "expirydate": "01-09-2025",
+        "Allowoffline": false
+    }
 ]
