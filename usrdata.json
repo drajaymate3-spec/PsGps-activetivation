@@ -167,5 +167,10 @@
         "expirydate": "20-09-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "3ede81a9622953cf",
+        "key": "JAZNL",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
 ]
