@@ -185,4 +185,10 @@
         "expirydate": "25-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "16c05ac011ba863b",
+        "key": "QOUWML",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
+    }
 ]
