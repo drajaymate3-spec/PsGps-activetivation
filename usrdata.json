@@ -190,5 +190,11 @@
         "key": "QOUWML",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "866f50c9c14784f5",
+        "key": "JAPABQ",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
     }
 ]
