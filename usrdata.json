@@ -196,5 +196,11 @@
         "key": "JAPABQ",
         "expirydate": "10-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6c25ec03a4683727",
+        "key": "JAOAHOQ",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
