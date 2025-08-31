@@ -202,5 +202,17 @@
         "key": "JAOAHOQ",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "447dc25fbdbc8975",
+        "key": "PSHALA",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d270f6e74b7ce298",
+        "key": "HAPJU",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
