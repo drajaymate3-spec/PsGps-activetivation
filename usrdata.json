@@ -214,5 +214,11 @@
         "key": "HAPJU",
         "expirydate": "29-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0cc40771b9e800f2",
+        "key": "DSWT",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
